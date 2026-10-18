@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/django-treebeard/django-treebeard/commit/ba525b1ab000805cd26591cdd784b95f94017233",
       "git:hexsha": "ba525b1ab000805cd26591cdd784b95f94017233",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/django-treebeard/django-treebeard/commit/f788bfb493a7f1dd908a2f9498a433ae0f4d869b",
