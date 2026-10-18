@@ -1,0 +1,11 @@
+{
+  "org": "django-treebeard",
+  "repo": "django-treebeard",
+  "versions": [
+    {
+      "commit": "ba525b1ab000805cd26591cdd784b95f94017233",
+      "tag": "",
+      "parsed_at": "2026-10-18T10:17:30.718431+00:00"
+    }
+  ]
+}
